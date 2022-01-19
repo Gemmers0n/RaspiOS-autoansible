@@ -1,0 +1,26 @@
+Jan 18 00:00:20 raspberrypi su: pam_unix(su:session): session opened for user root by ansible(uid=1001)
+Jan 18 00:00:20 raspberrypi systemd-logind[397]: New session c52 of user root.
+Jan 18 00:00:21 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jan 18 00:00:29 raspberrypi su: pam_unix(su:session): session closed for user root
+Jan 18 00:00:29 raspberrypi systemd-logind[397]: Session c52 logged out. Waiting for processes to exit.
+Jan 18 00:00:29 raspberrypi systemd-logind[397]: Removed session c52.
+Jan 18 00:00:50 raspberrypi su: pam_unix(su:session): session opened for user root by ansible(uid=1001)
+Jan 18 00:00:50 raspberrypi systemd-logind[397]: New session c53 of user root.
+Jan 18 00:00:50 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jan 18 00:00:54 raspberrypi su: pam_unix(su:session): session closed for user root
+Jan 18 00:00:54 raspberrypi systemd-logind[397]: Session c53 logged out. Waiting for processes to exit.
+Jan 18 00:00:54 raspberrypi systemd-logind[397]: Removed session c53.
+Jan 18 00:01:11 raspberrypi su: pam_unix(su:session): session opened for user root by ansible(uid=1001)
+Jan 18 00:01:11 raspberrypi systemd-logind[397]: New session c54 of user root.
+Jan 18 00:01:11 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jan 18 00:01:11 raspberrypi su: pam_unix(su:session): session closed for user root
+Jan 18 00:01:11 raspberrypi systemd-logind[397]: Session c54 logged out. Waiting for processes to exit.
+Jan 18 00:01:11 raspberrypi systemd-logind[397]: Removed session c54.
+Jan 18 00:01:19 raspberrypi su: pam_unix(su:session): session opened for user root by ansible(uid=1001)
+Jan 18 00:01:19 raspberrypi systemd-logind[397]: New session c55 of user root.
+Jan 18 00:03:03 raspberrypi su: pam_unix(su:session): session closed for user root
+Jan 18 00:03:03 raspberrypi systemd-logind[397]: Session c55 logged out. Waiting for processes to exit.
+Jan 18 00:03:03 raspberrypi systemd-logind[397]: Removed session c55.
+Jan 18 18:16:19 raspberrypi su: pam_unix(su-l:session): session opened for user root by vange01(uid=1000)
+Jan 18 18:16:19 raspberrypi systemd-logind[397]: New session c56 of user root.
+Jan 18 18:16:19 raspberrypi systemd: pam_unix(systemd-user:session): session opened for user root by (uid=0)
